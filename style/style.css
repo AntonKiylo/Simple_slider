@@ -20,6 +20,17 @@ section{
     margin-top: 40px;
 }
 
+#buttonBlock{
+    margin: 10px auto;
+    width: fit-content;
+}
+
+#buttonBlock button{
+    padding: 5px;
+    margin: 0 6px;
+    cursor: pointer;
+}
+
 .slideBlock{
     width: 80%;
     height: 500px;
